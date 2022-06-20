@@ -1,4 +1,4 @@
-' Sign All the Scripts in a Folder
+' Sign All the Scripts in a Folder'
 
 
 Set objSigner = WScript.CreateObject("Scripting.Signer")
